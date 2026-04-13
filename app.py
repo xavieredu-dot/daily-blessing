@@ -131,7 +131,7 @@ index = day_of_year % len(verses)
 last_opened = get_last_opened_date()
 
 # --- UI ---
-st.markdown("<h1>Welcome! Melissa Theodora John ❤️</h1>",
+st.markdown("<h1>Welcome! Mellisa Theodora John ❤️</h1>",
             unsafe_allow_html=True)
 
 col1, col2, col3 = st.columns([1, 1.5, 1])
